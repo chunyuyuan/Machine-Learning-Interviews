@@ -48,5 +48,5 @@ Notes:
 
 
   * [Materials 1(https://github.com/QuickLearner171998/Machine-Learning-Interview-Prep/tree/master?tab=readme-ov-file)](https://github.com/QuickLearner171998/Machine-Learning-Interview-Prep/tree/master?tab=readme-ov-file).
- * [Materials 2(https://openmlsys.github.io/)](https://openmlsys.github.io/).
+  * [Materials 2(https://openmlsys.github.io/)](https://openmlsys.github.io/).
   
